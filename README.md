@@ -2,3 +2,6 @@
 
 ### วิชา Computer Programming สำหรับนักศึกษาคณะวิศวกรรมศาสตร์ ชั้นปีที่ 1
 
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+
+
