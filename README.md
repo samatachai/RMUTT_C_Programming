@@ -4,4 +4,5 @@
 
 ![C](https://img.shields.io/badge/Language-C-blue.svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
