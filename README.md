@@ -6,3 +6,4 @@
 :::note
 This is a note
 :::
+<span color="red">Test</span>
