@@ -6,4 +6,5 @@
 :::note
 This is a note
 :::
-<span color="red">Test</span>
+
+A very <span style='color: red;'>long</span> sentence.
