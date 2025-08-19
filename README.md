@@ -1,5 +1,5 @@
-﻿## $${\color{green}Computer Programming}$$
-### วิชา Computer Programmind ของคณะวิศวกรรมศาสตร์ มทร.ธัญบุรี 1/2568
+﻿## $${\color{#326a95}Computer Programming}$$
+### วิชา Computer Programming ของคณะวิศวกรรมศาสตร์ มทร.ธัญบุรี 1/2568
 
 [!NOTE] 
 ทดสอบ
