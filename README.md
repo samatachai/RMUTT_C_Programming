@@ -3,5 +3,6 @@
 
 [!NOTE] 
 ทดสอบ
-
-
+:::note
+This is a note
+:::
